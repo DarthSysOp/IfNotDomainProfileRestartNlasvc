@@ -27,6 +27,6 @@ Ensure that you have administrative privileges to restart services.
 It is recommended to test this script in a non-production environment before using it in a production environment.
 
 ## Disclaimer
-This script is provided as-is without any warranties or guarantees. Use it at your own risk. The author and OpenAI are not responsible for any damage or loss caused by the script.
+This script is provided as-is without any warranties or guarantees. Use it at your own risk. The author are not responsible for any damage or loss caused by the script.
 
 Feel free to customize and adapt this script to fit your specific requirements. If you have any questions or encounter any issues, please don't hesitate to reach out for support.
